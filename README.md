@@ -20,7 +20,7 @@ wstool init src https://raw.github.com/tu-darmstadt-ros-pkg/hector_quadrotor/kin
 
 Install some required packages.
 
-Note: If you are using ROS kientic, please replace melodic with kinetic in below commands
+Note: If you are using ROS kinetic, please replace melodic with kinetic in below commands
 
 ```
 sudo apt-get install ros-melodic-geographic-info
